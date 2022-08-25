@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Akshay2001001003/Box-Office/static/css/main.93052401.chunk.css",
+    "main.js": "/Akshay2001001003/Box-Office/static/js/main.f9f2c6a3.chunk.js",
+    "main.js.map": "/Akshay2001001003/Box-Office/static/js/main.f9f2c6a3.chunk.js.map",
+    "runtime-main.js": "/Akshay2001001003/Box-Office/static/js/runtime-main.2272a765.js",
+    "runtime-main.js.map": "/Akshay2001001003/Box-Office/static/js/runtime-main.2272a765.js.map",
+    "static/js/2.30c390ca.chunk.js": "/Akshay2001001003/Box-Office/static/js/2.30c390ca.chunk.js",
+    "static/js/2.30c390ca.chunk.js.map": "/Akshay2001001003/Box-Office/static/js/2.30c390ca.chunk.js.map",
+    "static/js/3.eb2d6ee5.chunk.js": "/Akshay2001001003/Box-Office/static/js/3.eb2d6ee5.chunk.js",
+    "static/js/3.eb2d6ee5.chunk.js.map": "/Akshay2001001003/Box-Office/static/js/3.eb2d6ee5.chunk.js.map",
+    "index.html": "/Akshay2001001003/Box-Office/index.html",
+    "precache-manifest.9317839843143a9ceddf1524592cd230.js": "/Akshay2001001003/Box-Office/precache-manifest.9317839843143a9ceddf1524592cd230.js",
+    "service-worker.js": "/Akshay2001001003/Box-Office/service-worker.js",
+    "static/css/main.93052401.chunk.css.map": "/Akshay2001001003/Box-Office/static/css/main.93052401.chunk.css.map",
+    "static/js/2.30c390ca.chunk.js.LICENSE.txt": "/Akshay2001001003/Box-Office/static/js/2.30c390ca.chunk.js.LICENSE.txt",
+    "static/js/main.f9f2c6a3.chunk.js.LICENSE.txt": "/Akshay2001001003/Box-Office/static/js/main.f9f2c6a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2272a765.js",
+    "static/js/2.30c390ca.chunk.js",
+    "static/css/main.93052401.chunk.css",
+    "static/js/main.f9f2c6a3.chunk.js"
+  ]
+}
